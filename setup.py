@@ -10,6 +10,8 @@ setup(
    license='LICENSE.txt',
    description='Cryogenic detectors for neutrino detection',
    long_description='For now no long description',
+   url = 'https://github.com/notacustomdev/ResNova',
+   download_url = 'https://github.com/notacustomdev/ResNova/archive/refs/tags/v_010.tar.gz',
    #long_description=open('README.txt').read(),
    install_requires=[
        "numpy>=1.19.2",
